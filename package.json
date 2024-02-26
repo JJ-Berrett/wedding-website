@@ -1,0 +1,22 @@
+{
+  "name": "wedding-website",
+  "version": "1.0.0",
+  "description": "Wedding website for Cody and JJ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJ-Berrett/wedding-website.git"
+  },
+  "author": "JJ Berrett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJ-Berrett/wedding-website/issues"
+  },
+  "homepage": "https://github.com/JJ-Berrett/wedding-website#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
